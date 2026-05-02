@@ -1,6 +1,10 @@
+body {
+    background-color: seagreen;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 h1 {
     text-align: center;
-    background-color: black;
-    color: white;
+    color: burlywood;
     padding: 8px;
 }
